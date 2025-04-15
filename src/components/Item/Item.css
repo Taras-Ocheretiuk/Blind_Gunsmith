@@ -1,6 +1,6 @@
 .shopcategory-products {
     display: flex;
-    justify-content: space-around;
+    justify-content: center;
     flex-wrap: wrap;
     margin: 30px auto 30px;
     gap: 10px;
@@ -39,6 +39,9 @@
 /*--------------- Media Quries ---------------*/
 
 @media  (min-width: 576px) {
+    .shopcategory-products {
+        justify-content: space-around;
+    }
     .item {
         width: 30vw;
     }
