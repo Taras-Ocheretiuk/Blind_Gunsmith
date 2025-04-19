@@ -1,22 +1,28 @@
 {
   "files": {
-    "main.css": "/Blind_Gunsmith/static/css/main.bd114963.css",
-    "main.js": "/Blind_Gunsmith/static/js/main.54e86517.js",
-    "static/media/k1_308.jpg": "/Blind_Gunsmith/static/media/k1_308.e40694c5cfdfa9ba2548.jpg",
+    "main.css": "/Blind_Gunsmith/static/css/main.70dde0dc.css",
+    "main.js": "/Blind_Gunsmith/static/js/main.b7cc94ca.js",
+    "static/media/k1_img3.jpg": "/Blind_Gunsmith/static/media/k1_img3.ddb5a4cd362bc1b27a6d.jpg",
+    "static/media/k3_img2.jpg": "/Blind_Gunsmith/static/media/k3_img2.413ff6a09dc7b520f53f.jpg",
+    "static/media/k1_img4.jpg": "/Blind_Gunsmith/static/media/k1_img4.58353f4b558de6e93890.jpg",
+    "static/media/k3_img3.jpg": "/Blind_Gunsmith/static/media/k3_img3.ed468b833e3a7111cfbc.jpg",
+    "static/media/k1_img2.jpg": "/Blind_Gunsmith/static/media/k1_img2.9f66f83a2e40452f3fd8.jpg",
     "static/media/banner_Keychain.jpg": "/Blind_Gunsmith/static/media/banner_Keychain.a22210464274f1401724.jpg",
+    "static/media/k1_308.jpg": "/Blind_Gunsmith/static/media/k1_308.d1d9072b863845ff806f.jpg",
     "static/media/Pen.jpg": "/Blind_Gunsmith/static/media/Pen.e07186cd90b08449f04d.jpg",
     "static/media/banner_Pen.jpg": "/Blind_Gunsmith/static/media/banner_Pen.f821e8711f566bacb770.jpg",
     "static/media/k3_5.56.jpg": "/Blind_Gunsmith/static/media/k3_5.56.0ee83034801082385191.jpg",
     "static/media/k2_7.62x54.jpg": "/Blind_Gunsmith/static/media/k2_7.62x54.7659211320d662fc9f1b.jpg",
     "static/media/k4_7.62x25.jpg": "/Blind_Gunsmith/static/media/k4_7.62x25.b82a8a6928918a2969a1.jpg",
     "static/media/logo.png": "/Blind_Gunsmith/static/media/logo.698723d318a748bd70e8.png",
+    "static/media/Candle_holders.jpg": "/Blind_Gunsmith/static/media/Candle_holders.9a9c1613a09db23ef9b1.jpg",
     "static/media/banner_Candle_holders.jpg": "/Blind_Gunsmith/static/media/banner_Candle_holders.f682cb6456f3628c0f5c.jpg",
     "index.html": "/Blind_Gunsmith/index.html",
-    "main.bd114963.css.map": "/Blind_Gunsmith/static/css/main.bd114963.css.map",
-    "main.54e86517.js.map": "/Blind_Gunsmith/static/js/main.54e86517.js.map"
+    "main.70dde0dc.css.map": "/Blind_Gunsmith/static/css/main.70dde0dc.css.map",
+    "main.b7cc94ca.js.map": "/Blind_Gunsmith/static/js/main.b7cc94ca.js.map"
   },
   "entrypoints": [
-    "static/css/main.bd114963.css",
-    "static/js/main.54e86517.js"
+    "static/css/main.70dde0dc.css",
+    "static/js/main.b7cc94ca.js"
   ]
 }
