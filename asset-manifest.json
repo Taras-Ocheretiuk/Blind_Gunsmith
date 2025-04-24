@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Blind_Gunsmith/static/css/main.70dde0dc.css",
-    "main.js": "/Blind_Gunsmith/static/js/main.9a93031a.js",
+    "main.css": "/Blind_Gunsmith/static/css/main.2c3649f0.css",
+    "main.js": "/Blind_Gunsmith/static/js/main.cf60d765.js",
     "static/media/k1_img3.jpg": "/Blind_Gunsmith/static/media/k1_img3.ddb5a4cd362bc1b27a6d.jpg",
     "static/media/k3_img2.jpg": "/Blind_Gunsmith/static/media/k3_img2.413ff6a09dc7b520f53f.jpg",
     "static/media/k1_img4.jpg": "/Blind_Gunsmith/static/media/k1_img4.58353f4b558de6e93890.jpg",
@@ -15,14 +15,15 @@
     "static/media/k2_7.62x54.jpg": "/Blind_Gunsmith/static/media/k2_7.62x54.7659211320d662fc9f1b.jpg",
     "static/media/k4_7.62x25.jpg": "/Blind_Gunsmith/static/media/k4_7.62x25.b82a8a6928918a2969a1.jpg",
     "static/media/logo.png": "/Blind_Gunsmith/static/media/logo.698723d318a748bd70e8.png",
+    "static/media/k4_img2.jpg": "/Blind_Gunsmith/static/media/k4_img2.ada9912c36273492c957.jpg",
     "static/media/Candle_holders.jpg": "/Blind_Gunsmith/static/media/Candle_holders.9a9c1613a09db23ef9b1.jpg",
     "static/media/banner_Candle_holders.jpg": "/Blind_Gunsmith/static/media/banner_Candle_holders.f682cb6456f3628c0f5c.jpg",
     "index.html": "/Blind_Gunsmith/index.html",
-    "main.70dde0dc.css.map": "/Blind_Gunsmith/static/css/main.70dde0dc.css.map",
-    "main.9a93031a.js.map": "/Blind_Gunsmith/static/js/main.9a93031a.js.map"
+    "main.2c3649f0.css.map": "/Blind_Gunsmith/static/css/main.2c3649f0.css.map",
+    "main.cf60d765.js.map": "/Blind_Gunsmith/static/js/main.cf60d765.js.map"
   },
   "entrypoints": [
-    "static/css/main.70dde0dc.css",
-    "static/js/main.9a93031a.js"
+    "static/css/main.2c3649f0.css",
+    "static/js/main.cf60d765.js"
   ]
 }
